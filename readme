@@ -1,0 +1,4 @@
+Strat:
+1. Create 2 pointers i and j where i is start of array and j is end
+2. On whitespace increment i or j in whileloop while also checking for out of bounds
+3. Check chars and return false if they dont match
