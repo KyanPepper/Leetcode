@@ -1,0 +1,4 @@
+Strategy:
+
+1. Traverse Array
+2. On Number insert in Hash if not in Hash otherwise return true
