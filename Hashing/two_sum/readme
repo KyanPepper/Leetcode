@@ -1,0 +1,5 @@
+Strat:
+
+insert in hash with key being num and val being index
+Search for the target - current val in vector
+if not found in loop return empty vector
