@@ -1,0 +1,7 @@
+Strategy:
+
+Check for unequal string lengths
+Hash 1 string via <char,int> 
+check and decrease int value in other loop when same char detected
+look for 0 and return false if below
+
