@@ -1,0 +1,8 @@
+Strat:
+Area is min multiplied  by index amount inbetween i and j
+check area with i and rightbound
+check area with left and rightbound
+check area with i and j against left and right bound 
+move the lesser value left if i right if j
+
+
